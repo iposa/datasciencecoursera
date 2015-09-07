@@ -1,2 +1,2 @@
 # datasciencecoursera
-# For Coursera porpurse only!!!
+# For Coursera purpose only!!!
